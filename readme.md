@@ -47,8 +47,8 @@ Basic ledger that saves information about the trade transactions.
 
 ## My socials
 
--   :email: Email: william.m.tuominiemi@gmail.com
--   :link: Github: https://github.com/WilliamTuominiemi
+-   :email: Email: davidsuzuki.info@gmail.com
+-   :link: Github: https://github.com/davidsoft318
 
 ## License
 
